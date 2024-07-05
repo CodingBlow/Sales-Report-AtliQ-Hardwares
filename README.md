@@ -1,3 +1,5 @@
+# Sales Report AtliQ Hardwares
+
 ## Customer Net Sale Performance Indicator
 - Overview of how customer net sale performance is calculated.
 - Include any relevant metrics or KPIs used to measure customer sales performance.
@@ -22,5 +24,3 @@
 - Identification of the top 5 best-performing products.
 - Identification of the bottom 5 least-performing products.
 - Analysis of factors influencing their performance.
-
-

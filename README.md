@@ -1,5 +1,3 @@
-# Sales Report README
-
 ## Customer Net Sale Performance Indicator
 - Overview of how customer net sale performance is calculated.
 - Include any relevant metrics or KPIs used to measure customer sales performance.
@@ -25,9 +23,4 @@
 - Identification of the bottom 5 least-performing products.
 - Analysis of factors influencing their performance.
 
----
 
-### Notes:
-- Ensure all sections are clearly labeled and easy to navigate.
-- Use charts, tables, or bullet points where applicable to enhance readability.
-- Include any additional insights or recommendations based on the data.
